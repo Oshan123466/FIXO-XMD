@@ -1,0 +1,41 @@
+{
+  "name": "DILSHAN-MD",
+  "version": "1.0.0",
+  "description": "DILSHAN-MD",
+  "main": "index.js",
+  "scripts": {
+    "start": "pm2 start index.js --deep-monitoring --attach --name dilshan-md",
+    "stop": "pm2 stop dilshan-md",
+    "restart": "pm2 restart dilshan-md"
+  },
+  "dependencies": {
+   "@whiskeysockets/baileys": "github:MR-LAKIYA/Baileys",
+"jimp": "0.16.1",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "pino": "^7.0.5",
+    "pm2": "^5.2.0",
+    "util": "^0.12.4",
+    "express": "latest",
+    "axios": "^1.2.5",
+    "denethdev-ytmp3":"1.0.2",
+    "file_size_url": "^1.0.4",
+    "fs-extra": "^11.1.0",
+    "path": "^0.12.7",
+    "node-fetch": "^2.6.1",
+    "megajs": "^1.1.0",
+    "vm": "^0.1.0",
+    "qrcode-terminal": "^0.12.0",
+    "yt-search":"2.11.1",
+     "mongoose":"8.5.3",
+    "wa-sticker-formatter": "^4.3.2",
+    "api-dylux":"1.8.5",
+    "@dark-yasiya/yt-dl.js": "1.0.5",
+    "@dark-yasiya/yt-dl.js": "latest",
+    "ruhend-scraper": "^9.0.1",
+    "g-i-s": "latest",
+    "node-cache": "latest"
+    
+    
+    
+  }
+}
