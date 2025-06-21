@@ -48,7 +48,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-[![FORK THENUWA XMD-V1](https://img.shields.io/badge/FORK%20-THENUWA%20XMD%20V1-white)](https://github.com/Thenuwa2007/THENUWA-XMD)
+[![FORK FIXO XMD-V1](https://img.shields.io/badge/FORK%20-THENUWA%20XMD%20V1-white)](https://github.com/Thenuwa2007/THENUWA-XMD)
 
 
 <p align="center">
@@ -57,7 +57,7 @@
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=00FF00&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=THENUWA-XMD+V1;DIPLOY+-+YOU+-+POWERED+BY;FIXO+-+XD;VOICE+BY;ASHI+THANKS;EDITAR+BY;FIXO+XD+THANKS;MY+PROJECT;MY+FULL+HELP;LOGOS+BY+USHAN+THANKS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=00FF00&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=FIXO-XMD+V1;DIPLOY+-+YOU+-+POWERED+BY;FIXO+-+XD;VOICE+BY;ASHI+THANKS;EDITAR+BY;FIXO+XD+THANKS;MY+PROJECT;MY+FULL+HELP;LOGOS+BY+USHAN+THANKS" alt="Typing SVG" /></a>
 </p>
 
 
